@@ -31,6 +31,6 @@ public class Main {
             scanner.nextLine();
         }
 
-        System.out.println("Exercise finished czongratulations");
+        System.out.println("Exercise finished congratulations");
     }
 }
